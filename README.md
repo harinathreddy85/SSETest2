@@ -1,4 +1,4 @@
 # maven-project
 
 Simple Maven Project
-Update from user1
+Update from user2
